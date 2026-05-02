@@ -1,12 +1,12 @@
 {
 
     "Entra_Group_Admin": {
-        "Group_ID": "",
+        "Group_ID": "0ab2156c-c3e1-443b-a1ee-d82902f984a6",
         "Group_Name": "Data Strategy Admins"
     },
 
     "Entra_Group_Shared_Service": {
-        "Group_ID": "",
+        "Group_ID": "75f1dcfe-5629-4e85-a4dc-5891b8e60b14",
         "Group_Name": "Data Strategy Shared Services"
     },
 

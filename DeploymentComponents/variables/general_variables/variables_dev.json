@@ -1,58 +1,58 @@
 {
     "azureResourceLocation": "eastus2",
 
-    "PrimaryRgName": "",
+    "PrimaryRgName": "rg-dataplatform-dev",
 
     "tags": {
         "env": "dev"
     },
 
-    "fabricCapacityName": "",
+    "fabricCapacityName": "qcdspdevfabric",
 
     "fabricSKU": "F2",
     
     "synapseWorkspaceName": "",
 
-    "dataFactoryName": "",
+    "dataFactoryName": "adf-qcdsp-dev-c333",
 
-    "azureSQLServerName": "",
+    "azureSQLServerName": "sql-qcdsp-dev-c333",
     "azureSQLServerDBName": "MetadataControl",
 
-    "keyVaultName": "",
+    "keyVaultName": "kv-qcdsp-dev-c333",
 
-    "dataLakeName": "",
+    "dataLakeName": "qcdspdevdlc333",
 
-    "landingStorageName": "",
+    "landingStorageName": "qcdspdevlndc333",
 
-    "LogicAppRgName": "",
+    "LogicAppRgName": "rg-logicapp-dev",
 
-    "logicAppName": "",
+    "logicAppName": "la-qcdsp-dev",
 
-    "logicAppServicePlanName": "",
+    "logicAppServicePlanName": "laplan-qcdsp-dev",
 
-    "logicAppStorageName": "",
+    "logicAppStorageName": "qcdspdevlac333",
 
-    "logicAppInsightsName": "",
+    "logicAppInsightsName": "lai-qcdsp-dev",
 
-    "purviewName": "",
+    "purviewName": "pv-qcdsp-dev-c333",
 
-    "logAnalyticsName": "",
+    "logAnalyticsName": "log-qcdsp-dev",
 
-    "MlRgName": "",
+    "MlRgName": "rg-ml-dev",
 
-    "mlWorkspaceName": "",
+    "mlWorkspaceName": "ml-qcdsp-dev",
 
-    "mlWorkspaceKeyVaultName": "",
+    "mlWorkspaceKeyVaultName": "kv-qcdsp-ml-c333",
 
-    "mlStorageName": "",
+    "mlStorageName": "qcdspdevmlc333",
 
-    "mlAppInsightsName": "",
+    "mlAppInsightsName": "mlai-qcdsp-dev",
 
-    "mlContainerRegistryName": "",
+    "mlContainerRegistryName": "qcdspdevacrc333",
 
-    "databricksWorkspaceName": "",
+    "databricksWorkspaceName": "dbw-qcdsp-dev",
 
-    "cognitiveServiceName": "",
+    "cognitiveServiceName": "cs-qcdsp-dev-c333",
 
     "eventHubNamespaceName": "",
 
