@@ -45,7 +45,7 @@
 
     "DatabricksUsesUnityCatalog": true,
     
-    "DeployPurview": true,
+    "DeployPurview": false,
 
     "DeployLogicApp": true,
 
